@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "name": "event-bus-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/cors": "^2.8.9"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "nodemon"
+  },
+  "author": "Ironhight",
+  "license": "ISC",
+  "description": ""
+}
